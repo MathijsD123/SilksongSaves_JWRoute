@@ -4,6 +4,6 @@ NOTES:
 -got extra missing journal entries in save 24
 -accidenatly spawned ST2 in bone bottom
 -didn't visit shakra in sinners road before save 36
--spool in deep docks
--arcane agg later
--void masses before quest
+-different void masses for quest
+-forgot to open architect shortcut
+-missed 1 memory locket for eva
