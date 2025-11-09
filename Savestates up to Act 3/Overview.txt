@@ -1,0 +1,40 @@
+00 - Bell Beast
+01 - Hunter's March
+02 - Lace 1
+03 - Flea Travel 1
+04 - Widow
+05 - Fourth Chorus Quick Kill
+06 - Greymoor
+07 - Blasted Steps
+08 - Last Judge
+09 - Cogwork Dancers
+10 - Whispering Vaults
+11 - Trobbio
+12 - Mount Fay
+13 - Blasted Steps 2
+14 - Wormways
+15 - Weavenest Atla
+16 - Memorium
+17 - Upper Cogwork Core
+18 - Whiteward Lever Skip
+19 - Marrow
+20 - Hunter's March 2
+21 - Statue Skip
+22 - Phantom
+23 - Nectar Arena
+24 - Sinner's Road
+25 - Wisp Thicket
+26 - Rasher
+27 - Savage Beastfly 2
+28 - Skull Cavern Skip
+29 - Groal Skip
+30 - Lower Deep Docks
+31 - High Halls
+32 - High Halls Arena
+33 - Lace 2
+34 - Whiteward
+35 - Second Sentinel
+36 - Putrified Ducts
+37 - The Slab
+38 - Flea Travel 2
+39 - Grand Mother Silk
